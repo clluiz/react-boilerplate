@@ -11,3 +11,4 @@
 - prettier
 - pnpm
 - Arquitetura com Module by feature
+- State management (Zustand or tanstack store?)
